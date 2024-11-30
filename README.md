@@ -27,21 +27,6 @@ This is a Streamlit-based web application for managing a T-Shirt inventory using
   - streamlit for the web interface.
   - dotenv for managing environment variables.
 
-## Project Structure
-
-
-.
-├── app.py                # Main Streamlit application.
-├── utils/                # Utility functions for Elasticsearch operations.
-│   ├── opensearch_client.py  # Elasticsearch client initialization.
-│   ├── data_loader.py        # Functions for loading and indexing data.
-│   ├── search_utils.py       # Query and search functions.
-├── data/                # Directory for data files.
-│   ├── data.json           # Sample T-Shirt inventory data.
-├── .env                 # Environment variables for Elasticsearch credentials.
-├── requirements.txt     # Python dependencies.
-└── README.md            # Project documentation.
-
 
 ## Installation
 
