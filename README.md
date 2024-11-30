@@ -1,4 +1,4 @@
-# T-Shirt Inventory Calculator
+# T-Shirt Inventory Tracker
 
 This is a Streamlit-based web application for managing a T-Shirt inventory using Elasticsearch. The app allows users to:
 - Search inventory by brand and size.
