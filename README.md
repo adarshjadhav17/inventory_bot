@@ -53,6 +53,9 @@ This is a Streamlit-based web application for managing a T-Shirt inventory using
    streamlit run app.py
 
 ![Alt Text](https://github.com/adarshjadhav17/inventory_bot/blob/main/inventory1.png)
+![Alt Text](https://github.com/adarshjadhav17/inventory_bot/blob/main/inventory2.png)
+![Alt Text](https://github.com/adarshjadhav17/inventory_bot/blob/main/inventory3.png)
+
 
 ## Sample Data
 
